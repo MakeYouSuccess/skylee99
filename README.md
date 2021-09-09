@@ -8,7 +8,7 @@
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Ruby and C#
 - 👯 I’m looking to collaborate on JavaScript projects
 - 💬 Ask me about C, C++ and JavaScript
 - 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
