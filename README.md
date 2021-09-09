@@ -1,19 +1,19 @@
 ## Hi there, I'm Julius Lee 👋
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
-![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/sanchitbajaj02/)
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://luckyarthas0823.wixsite.com/portfolio)](https://skylee99.github.io/portfolio/)
+![Visitor Count](https://komarev.com/ghpvc/?username=skylee99&color=blue&logo=flat)
+[![Linkedin](https://img.shields.io/badge/skylee99-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/juliuslee99/)](https://www.linkedin.com/in/juliuslee99/)
 [![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
 
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Ruby and C#
-- 👯 I’m looking to collaborate on JavaScript projects
-- 💬 Ask me about C, C++ and JavaScript
-- 📫 How to reach me: <a href="mailto:sanchit02@outlook.com">sanchit02@outlook.com</a>
-- 🤔 I’m looking for help with nextjs
-- ⚡ QWERTY was designed to slow you down
+- 🌱 I’m currently learning Ruby and AWS
+- 👯 I’m looking to collaborate on SPA Frontend projects.
+- 💬 Ask me about C, C++, C#, JavaScript, Typescript, React, React Native and Iot development.
+- 📫 How to reach me: <a href="juliuslee.sky99@gmail.com">juliuslee.sky99@gmail.com</a>
+- 🤔 I’m looking for help with Ruby and Flask.
+- ⚡ QWERTY was designed to slow you down.
   <br/>
 
 ## Working Stack:
@@ -49,50 +49,50 @@
   
   ### Trophies
 
-[![Sanchit's Trophy](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+[![Lee's Trophy](https://github-profile-trophy.vercel.app/?username=skylee99&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=skylee99&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
 
 ### Github Stats
 
-[![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/skylee99?tab=repositories)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylee99&theme=dracula)](https://git.io/streak-stats)
 
 ### Graph
 
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+[![Lee's github activity graph](https://activity-graph.herokuapp.com/graph?username=skylee99&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=skylee99&theme=dracula)
 
 </div>
 
 <!--
-<a href="https://github.com/sanchitbajaj02">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
+<a href="https://github.com/skylee99">
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=skylee99&row=1&column=7&margin-w=5&no-frame=true"/>
 </a>
 -->
 
 <!--
-<a href="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula">
+<a href="https://activity-graph.herokuapp.com/graph?username=skylee99">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=skylee99&theme=dracula">
 </a>
 -->
 
 <!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+<a href="https://github.com/skylee99?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
 </a>-->
 
 <!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
+<a href="https://github.com/skylee99?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
 </a>
 -->
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/Sanchitbajaj02?tab=repositories)
+<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/skylee99?tab=repositories)
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/Sanchitbajaj02?tab=repositories) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/skylee99?tab=repositories) -->
