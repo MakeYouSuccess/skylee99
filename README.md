@@ -3,7 +3,6 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://luckyarthas0823.wixsite.com/portfolio)](https://skylee99.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=skylee99&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/skylee99-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/juliuslee99/)](https://www.linkedin.com/in/juliuslee99/)
-[![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
 
 <br>
 
