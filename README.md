@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Ruby and AWS
 - 👯 I’m looking to collaborate on SPA Frontend projects.
 - 💬 Ask me about C, C++, C#, JavaScript, Typescript, React, React Native and Iot development.
-- 📫 How to reach me: <a href="juliuslee.sky99@gmail.com">juliuslee.sky99@gmail.com</a>
+<!-- - 📫 How to reach me: <a href="juliuslee.sky99@gmail.com">juliuslee.sky99@gmail.com</a> -->
 - 🤔 I’m looking for help with Ruby and Flask.
 - ⚡ QWERTY was designed to slow you down.
   <br/>
