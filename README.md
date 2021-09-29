@@ -1,8 +1,8 @@
-## Hi there, I'm Julius Lee 👋
+## Hi there 👋
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://luckyarthas0823.wixsite.com/portfolio)](https://skylee99.github.io/portfolio/)
+<!-- [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://luckyarthas0823.wixsite.com/portfolio)](https://skylee99.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=skylee99&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/skylee99-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/juliuslee99/)](https://www.linkedin.com/in/juliuslee99/)
+[![Linkedin](https://img.shields.io/badge/skylee99-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/juliuslee99/)](https://www.linkedin.com/in/juliuslee99/) -->
 
 <br>
 
