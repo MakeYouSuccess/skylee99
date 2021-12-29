@@ -45,12 +45,6 @@
 
 ## Statistics
 
-<div align="center">
-  
-  ### Trophies
-
-[![Lee's Trophy](https://github-profile-trophy.vercel.app/?username=skylee99&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=skylee99&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
-
 ### Github Stats
 
 [![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/skylee99?tab=repositories)
@@ -58,12 +52,6 @@
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
-
-### Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylee99&theme=dracula)](https://git.io/streak-stats)
-
-</div>
 
 <!--
 <a href="https://github.com/skylee99">
