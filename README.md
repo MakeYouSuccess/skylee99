@@ -51,8 +51,8 @@
 
 ### Github Stats
 
-[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/skylee99?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=skylee99&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
+[![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylee99&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/skylee99?tab=repositories)
 
 <!--
 <a href="https://github.com/skylee99">
