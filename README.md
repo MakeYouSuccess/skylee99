@@ -7,11 +7,11 @@
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Ruby and AWS
-- 👯 I’m looking to collaborate on SPA Frontend projects.
-- 💬 Ask me about C, C++, C#, JavaScript, Typescript, React, React Native and Iot development.
-<!-- - 📫 How to reach me: <a href="juliuslee.sky99@gmail.com">juliuslee.sky99@gmail.com</a> -->
-- 🤔 I’m looking for help with Ruby and Flask.
+- 🌱 I’m currently learning Eth2.0 and Rust
+- 👯 I’m looking to collaborate on Blockchain projects and Front-end Projects.
+- 💬 Ask me about C, C++, C#, JavaScript, Typescript, React, React Native and Iot development, especially any blockchain technologies.
+<!-- - 📫 How to reach me: <a href="jamili.sky99@gmail.com">jamili.sky99@gmail.com</a> -->
+- 🤔 I’m looking for help with Eth2.0 and Solana network.
 - ⚡ QWERTY was designed to slow you down.
   <br/>
 
@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
@@ -29,17 +28,22 @@
     <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=03AABF" />
-    <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935">
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br>
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" />
-    <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
     <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />  
 </div>
 <br/>
 
