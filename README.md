@@ -63,10 +63,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skylee99&theme=dracula)](https://git.io/streak-stats)
 
-### Graph
-
-[![Lee's github activity graph](https://activity-graph.herokuapp.com/graph?username=skylee99&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=skylee99&theme=dracula)
-
 </div>
 
 <!--
